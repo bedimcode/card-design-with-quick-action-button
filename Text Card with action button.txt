@@ -1,0 +1,6 @@
+========== CARD ==========
+.card__name
+Kamik Xans
+
+.card__description
+Creative in developing professional web interfaces with UI/UX themes.
